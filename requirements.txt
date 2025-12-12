@@ -1,9 +1,8 @@
 torch
 torchvision
-basicsr
+basicsr==1.4.2
 realesrgan
 numpy==1.23.5
 Pillow
-fastapi
-uvicorn
+requests
 runpod
