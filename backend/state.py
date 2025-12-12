@@ -1,1 +1,5 @@
+state = {
+    "progress": {},
+    "results": {}
+}
 
