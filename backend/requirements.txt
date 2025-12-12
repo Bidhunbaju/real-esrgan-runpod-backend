@@ -1,9 +1,0 @@
-torch
-torchvision
-basicsr
-realesrgan
-numpy==1.23.5
-Pillow
-fastapi
-uvicorn
-runpod
